@@ -66,6 +66,7 @@ span{
     flex-direction: row-reverse;
     justify-content: space-between;
     align-items: center;
+    gap: 57px;
 }
 .hero-subtitle {
     color: #6278B4;
@@ -79,6 +80,7 @@ span{
     font-weight: 700;
     padding-bottom: 16px;
     padding-top: 16px;
+
 }
 
 .hero-text {
@@ -125,6 +127,9 @@ span{
     font-size: 24px;
     font-weight: 400;
     line-height: 1.53;
+}
+.services-name span{
+    font-weight: 500;
 }
 .services-item{
     width: 300px;
